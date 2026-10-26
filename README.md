@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐧 Linux Commands for DevOps & Cloud Students
 
 <div align="center">
@@ -472,3 +473,6 @@ If this repository helps you:
 ### Made for DevOps & Cloud Students
 
 </div>
+=======
+# Linux-Commands
+>>>>>>> b4066ec9f5697017f377769b44ea9410b3e32294
